@@ -1,5 +1,5 @@
 
-const API_KEY = "6f461c910bffcac29a7e82f88121620e";
+const API_KEY = "";
 const COORDS = "coords";
 
 const geoName = document.querySelector(".geo_name");
